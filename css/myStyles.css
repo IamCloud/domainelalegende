@@ -10,4 +10,9 @@
 
 .carousel-item>img {
     margin:auto;
+    height:500px;
+}
+
+.carousel-item {
+    text-align: center;
 }
