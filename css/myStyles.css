@@ -16,3 +16,7 @@
 .carousel-item {
     text-align: center;
 }
+
+.carousel-caption {
+    color:invert!important;
+}
