@@ -24,3 +24,7 @@
 .site-heading {
     color:#f9d898!important;
 }
+
+.carousel-item > img {
+    height:auto;
+}
